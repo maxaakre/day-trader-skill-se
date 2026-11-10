@@ -23,6 +23,8 @@ Standardvärden i Stockholmsläget: inga nya köp före 09:15 eller efter 17:00,
 ut ur allt senast 17:15, max 200 kr förlust per trade och 600 kr per dag.
 Ändra i `trader/config.json` (mall: `trader-budget/config.example.se.json`).
 
+**Ny här?** Läs [ANVANDNING.md](ANVANDNING.md), en steg-för-steg-guide på svenska.
+
 ## Installera
 
 Kopiera mapparna till dina skills, globalt eller i ett projekt:
