@@ -76,6 +76,13 @@ from Avanza when they do. Default floors: `--min-price 10` (kr) and, for the
 daily scan, `--min-volume 100000` shares, because Stockholm volumes are far
 smaller than US ones. The opening range starts at 09:00.
 
+Live `orb` in Stockholm skips the spark stage and reads one full v8 chart per
+symbol (291 requests, about 1-2 minutes). Yahoo's spark answer drops 5-minute
+bars for `.ST` symbols (VOLV-B.ST lacked 5 bars on 2026-11-10), which made
+almost every chart unusable. The v8 charts carry highs and lows, so there is
+no second stage. A chart with a bar where nobody traded is still unusable:
+on a normal day expect roughly 40-90 usable charts, mostly Large Cap.
+
 ## What it reads and writes
 
 | file | what |

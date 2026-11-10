@@ -861,6 +861,22 @@ def progress(a, msg):
         print(msg, file=sys.stderr)
 
 
+def fetch_charts(symbols, rng, interval, pause, a=None):
+    """One v8 chart a symbol, with highs and lows. -> ({SYM: series}, {SYM: error}).
+    Stockholm uses this for live orb: Yahoo's spark answer drops 5-minute bars for .ST symbols."""
+    data, failed = {}, {}
+    for k, s in enumerate(symbols):
+        if k and pause:
+            SLEEP(pause)
+        if k and k % 50 == 0:
+            progress(a, "  %d of %d charts so far" % (k, len(symbols)))
+        try:
+            data[s] = parse_chart(yahoo_get(chart_path(s, rng, interval)), s)
+        except (ScanError, ValueError) as e:
+            failed[s] = str(e)
+    return data, failed
+
+
 def fetch_spark(symbols, rng, interval, pause, a=None):
     """Batches of 20. -> ({SYM: series}, {SYM: error})."""
     data, failed = {}, {}
@@ -1112,9 +1128,14 @@ def cmd_orb(a):
         if (today - day).days > 6:
             raise ScanError("Yahoo's free 5-minute history is short: replay %s with --offline" % day.isoformat())
         rng = "1d" if day == today else "5d"
-        progress(a, "Stage 1: 5-minute closes for %s symbols (%d spark requests)..."
-                 % ("{:,}".format(len(symbols)), (len(symbols) + SPARK_MAX - 1) // SPARK_MAX))
-        data, failed = fetch_spark(symbols, rng, "%dm" % BAR_MIN, a.pause, a)
+        if SE:
+            # spark drops bars for .ST symbols; the universe is small, so read full charts once
+            progress(a, "5-minute charts for %s symbols (one v8 request each)..." % "{:,}".format(len(symbols)))
+            data, failed = fetch_charts(symbols, rng, "%dm" % BAR_MIN, a.pause, a)
+        else:
+            progress(a, "Stage 1: 5-minute closes for %s symbols (%d spark requests)..."
+                     % ("{:,}".format(len(symbols)), (len(symbols) + SPARK_MAX - 1) // SPARK_MAX))
+            data, failed = fetch_spark(symbols, rng, "%dm" % BAR_MIN, a.pause, a)
         done = []
 
         def confirm(sym):
@@ -1124,6 +1145,8 @@ def cmd_orb(a):
             if len(done) % 50 == 0:
                 progress(a, "  stage 2: %d v8 charts so far" % len(done))
             return parse_chart(yahoo_get(chart_path(sym, rng, "%dm" % BAR_MIN)), sym)
+        if SE:
+            confirm = None  # the charts already carry highs and lows
     hits, counts, failed2 = scan_orb(data, symbols, day, cutoff, a.or_minutes, a.min_price, a.min_volume, confirm,
                                      a.max_confirm)
     failed = dict(failed or {})

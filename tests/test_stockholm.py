@@ -149,6 +149,36 @@ class OneTrade(unittest.TestCase):
             self.assertIn("17:00", out)
 
 
+class LiveOrb(unittest.TestCase):
+    """Live orb in Stockholm reads full v8 charts: Yahoo's spark answer drops 5-minute bars
+    for .ST symbols (VOLV-B.ST lacked 5 bars on 2026-11-10), so nearly every chart came out unusable."""
+
+    def test_stage_one_reads_v8_charts_not_spark(self):
+        scan = load("trader-scanner", "scan", market="SE")
+        with open(VOLV) as fh:
+            body = fh.read()
+        paths = []
+
+        def fake_get(path):
+            paths.append(path)
+            return body
+        scan.yahoo_get = fake_get
+        scan.SLEEP = lambda s: None
+        real_now = scan.parse_now
+        scan.parse_now = lambda s=None: real_now(s or "2026-11-09 09:40")
+        with tempfile.TemporaryDirectory() as d:
+            cwd = os.getcwd()
+            os.chdir(d)
+            try:
+                rc = scan.main(["orb", "--symbols", "VOLV-B", "--now", "2026-11-09 09:40", "--no-write", "--json"])
+            finally:
+                os.chdir(cwd)
+        self.assertEqual(rc, 0)
+        self.assertTrue(paths)
+        self.assertTrue(all(p.startswith("/v8/finance/chart/VOLV-B.ST") for p in paths), paths)
+        self.assertEqual(len(paths), 1)          # stage 1 already has highs and lows: no second fetch
+
+
 class Alerts(unittest.TestCase):
     def test_clock_on_julafton(self):
         with tempfile.TemporaryDirectory() as d:
