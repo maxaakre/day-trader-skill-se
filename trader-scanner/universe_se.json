@@ -1,0 +1,2044 @@
+{
+ "source": "Avanza aktiescreener (Large Cap + Mid Cap Stockholm), symboler verifierade mot Yahoo Finance spark 2026-11-10",
+ "fetched": "2026-11-10",
+ "count": 291,
+ "stocks": [
+  {
+   "symbol": "AAK.ST",
+   "name": "AAK",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "ABB.ST",
+   "name": "ABB",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "ALIF-B.ST",
+   "name": "AddLife B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "ANOD-B.ST",
+   "name": "Addnode Group B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-09"
+  },
+  {
+   "symbol": "ADDT-B.ST",
+   "name": "Addtech B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-02"
+  },
+  {
+   "symbol": "AFRY.ST",
+   "name": "AFRY",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "ALFA.ST",
+   "name": "Alfa Laval",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "ALIG.ST",
+   "name": "Alimak Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "ALLEI.ST",
+   "name": "Alleima",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "ALTRA.ST",
+   "name": "Altra Fastigheter",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-08"
+  },
+  {
+   "symbol": "ALVO-SDB.ST",
+   "name": "Alvotech SDB",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "AQ.ST",
+   "name": "AQ Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "ARION-SDB.ST",
+   "name": "Arion Bank SDB",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-17"
+  },
+  {
+   "symbol": "ASKER.ST",
+   "name": "Asker Healthcare",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "ASMDEE-B.ST",
+   "name": "Asmodee",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-13"
+  },
+  {
+   "symbol": "ASSA-B.ST",
+   "name": "Assa Abloy B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "AZN.ST",
+   "name": "AstraZeneca",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "ATCO-A.ST",
+   "name": "Atlas Copco A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "ATCO-B.ST",
+   "name": "Atlas Copco B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "ATRLJ-B.ST",
+   "name": "Atrium Ljungberg B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "ALIV-SDB.ST",
+   "name": "Autoliv SDB",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "AZA.ST",
+   "name": "Avanza Bank Holding",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-22"
+  },
+  {
+   "symbol": "AXFO.ST",
+   "name": "Axfood",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "BALD-B.ST",
+   "name": "Balder B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "BEIA-B.ST",
+   "name": "Beijer Alma B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "BEIJ-B.ST",
+   "name": "Beijer Ref B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "BETS-B.ST",
+   "name": "Betsson B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "BILI-A.ST",
+   "name": "Bilia A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "BILL.ST",
+   "name": "Billerud",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-02"
+  },
+  {
+   "symbol": "BIOA-B.ST",
+   "name": "BioArctic B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-25"
+  },
+  {
+   "symbol": "BOL.ST",
+   "name": "Boliden",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "BONEX.ST",
+   "name": "BONESUPPORT",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "BRAV.ST",
+   "name": "Bravida Holding",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "BUFAB.ST",
+   "name": "Bufab",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "BURE.ST",
+   "name": "Bure Equity",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-25"
+  },
+  {
+   "symbol": "CAMX.ST",
+   "name": "Camurus",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "CAST.ST",
+   "name": "Castellum",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "CATE.ST",
+   "name": "Catena",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "CLAS-B.ST",
+   "name": "Clas Ohlson B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-12-03"
+  },
+  {
+   "symbol": "CORE-A.ST",
+   "name": "Corem Property Group A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "CORE-B.ST",
+   "name": "Corem Property Group B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "DOM.ST",
+   "name": "Dometic Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "ELUX-A.ST",
+   "name": "Electrolux A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "ELUX-B.ST",
+   "name": "Electrolux B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "EPRO-B.ST",
+   "name": "Electrolux Professional B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "EKTA-B.ST",
+   "name": "Elekta B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-25"
+  },
+  {
+   "symbol": "EMBRAC-B.ST",
+   "name": "Embracer Group B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-11"
+  },
+  {
+   "symbol": "ENGCON-B.ST",
+   "name": "engcon B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "EPI-A.ST",
+   "name": "Epiroc A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-26"
+  },
+  {
+   "symbol": "EPI-B.ST",
+   "name": "Epiroc B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-26"
+  },
+  {
+   "symbol": "EQT.ST",
+   "name": "EQT",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-26"
+  },
+  {
+   "symbol": "ERIC-A.ST",
+   "name": "Ericsson A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "ERIC-B.ST",
+   "name": "Ericsson B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "ESSITY-A.ST",
+   "name": "Essity A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-21"
+  },
+  {
+   "symbol": "ESSITY-B.ST",
+   "name": "Essity B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-21"
+  },
+  {
+   "symbol": "EVO.ST",
+   "name": "Evolution",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "FABG.ST",
+   "name": "Fabege",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "FPAR-A.ST",
+   "name": "Fastpartner A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "FOI-B.ST",
+   "name": "Fenix Outdoor B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "GETI-B.ST",
+   "name": "Getinge B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-26"
+  },
+  {
+   "symbol": "GRNG.ST",
+   "name": "Gränges",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "HM-B.ST",
+   "name": "H&M B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "HACK.ST",
+   "name": "Hacksaw",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "SHB-A.ST",
+   "name": "Handelsbanken A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "SHB-B.ST",
+   "name": "Handelsbanken B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "HEM.ST",
+   "name": "Hemnet Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "HEXA-B.ST",
+   "name": "Hexagon B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "HPOL-B.ST",
+   "name": "Hexpol B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-01"
+  },
+  {
+   "symbol": "HMS.ST",
+   "name": "HMS Networks",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "HOLM-A.ST",
+   "name": "Holmen A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-02"
+  },
+  {
+   "symbol": "HOLM-B.ST",
+   "name": "Holmen B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-02"
+  },
+  {
+   "symbol": "HUFV-A.ST",
+   "name": "Hufvudstaden A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "HUSQ-A.ST",
+   "name": "Husqvarna A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "HUSQ-B.ST",
+   "name": "Husqvarna B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "INDU-A.ST",
+   "name": "Industrivärden A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "INDU-C.ST",
+   "name": "Industrivärden C",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "INDT.ST",
+   "name": "Indutrade",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "IPCO.ST",
+   "name": "International Petroleum Corp.",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-09"
+  },
+  {
+   "symbol": "INVE-A.ST",
+   "name": "Investor A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-22"
+  },
+  {
+   "symbol": "INVE-B.ST",
+   "name": "Investor B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-22"
+  },
+  {
+   "symbol": "IVSO.ST",
+   "name": "INVISIO",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "JM.ST",
+   "name": "JM",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "KINV-A.ST",
+   "name": "Kinnevik A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "KINV-B.ST",
+   "name": "Kinnevik B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "LAGR-B.ST",
+   "name": "Lagercrantz Group B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "LATO-B.ST",
+   "name": "Latour B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-09"
+  },
+  {
+   "symbol": "LIFCO-B.ST",
+   "name": "Lifco B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "LIAB.ST",
+   "name": "Lindab International",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "LOOMIS.ST",
+   "name": "Loomis",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "LUND-B.ST",
+   "name": "Lundberg B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-24"
+  },
+  {
+   "symbol": "LUG.ST",
+   "name": "Lundin Gold",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "LUMI.ST",
+   "name": "Lundin Mining Corporation",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "MCOV-B.ST",
+   "name": "Medicover B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "MIPS.ST",
+   "name": "Mips",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "MTRS.ST",
+   "name": "Munters Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "MYCR.ST",
+   "name": "Mycronic",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "NCC-A.ST",
+   "name": "NCC A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "NCC-B.ST",
+   "name": "NCC B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "NEWA-B.ST",
+   "name": "New Wave B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-11"
+  },
+  {
+   "symbol": "NIBE-B.ST",
+   "name": "Nibe Industrier B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-17"
+  },
+  {
+   "symbol": "NOBA.ST",
+   "name": "NOBA Bank",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-02"
+  },
+  {
+   "symbol": "NOLA-B.ST",
+   "name": "Nolato B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-08"
+  },
+  {
+   "symbol": "NDA-SE.ST",
+   "name": "Nordea",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "SAVE.ST",
+   "name": "Nordnet",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "NP3.ST",
+   "name": "NP3 Fastigheter",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "OCTV-SDB.ST",
+   "name": "Octave Intelligence SDB",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "OEM-B.ST",
+   "name": "OEM International B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "PNDX-B.ST",
+   "name": "Pandox B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "PDX.ST",
+   "name": "Paradox Interactive",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "PEAB-B.ST",
+   "name": "Peab B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "PUBLI.ST",
+   "name": "PPI Public Property Invest",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "ROKO-B.ST",
+   "name": "Röko B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "SAAB-B.ST",
+   "name": "SAAB B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "SAGA-A.ST",
+   "name": "Sagax A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "SAGA-B.ST",
+   "name": "Sagax B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "SAND.ST",
+   "name": "Sandvik",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "SCA-A.ST",
+   "name": "SCA A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "SCA-B.ST",
+   "name": "SCA B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "SHOT.ST",
+   "name": "Scandic Hotels Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-10"
+  },
+  {
+   "symbol": "SEB-A.ST",
+   "name": "SEB A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "SEB-C.ST",
+   "name": "SEB C",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "SECT-B.ST",
+   "name": "Sectra B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-25"
+  },
+  {
+   "symbol": "SECU-B.ST",
+   "name": "Securitas B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "SINCH.ST",
+   "name": "Sinch",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "SKA-B.ST",
+   "name": "Skanska B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "SKF-A.ST",
+   "name": "SKF A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "SKF-B.ST",
+   "name": "SKF B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "SKIS-B.ST",
+   "name": "SkiStar B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-12-18"
+  },
+  {
+   "symbol": "SSAB-A.ST",
+   "name": "SSAB A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "SSAB-B.ST",
+   "name": "SSAB B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "STE-A.ST",
+   "name": "Stora Enso A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "STE-R.ST",
+   "name": "Stora Enso R",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "STOR-B.ST",
+   "name": "Storskogen B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "SWEC-A.ST",
+   "name": "Sweco A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "SWEC-B.ST",
+   "name": "Sweco B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "SWED-A.ST",
+   "name": "Swedbank A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "SOBI.ST",
+   "name": "Swedish Orphan Biovitrum",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "SYSR.ST",
+   "name": "Systemair",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2026-12-10"
+  },
+  {
+   "symbol": "TEL2-A.ST",
+   "name": "Tele2 A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "TEL2-B.ST",
+   "name": "Tele2 B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "TELIA.ST",
+   "name": "Telia Company",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "THULE.ST",
+   "name": "Thule Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "TIETOS.ST",
+   "name": "Tieto",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-17"
+  },
+  {
+   "symbol": "8TRA.ST",
+   "name": "TRATON SE",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "TREL-B.ST",
+   "name": "Trelleborg B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "TROAX.ST",
+   "name": "Troax Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "TRUE-B.ST",
+   "name": "Truecaller",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-17"
+  },
+  {
+   "symbol": "VSURE.ST",
+   "name": "Verisure",
+   "segment": "Large Cap",
+   "currency": "EUR",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "VIMIAN.ST",
+   "name": "Vimian Group",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "VIT-B.ST",
+   "name": "Vitec Software Group B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "VITR.ST",
+   "name": "Vitrolife",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "VOLV-A.ST",
+   "name": "Volvo A",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "VOLV-B.ST",
+   "name": "Volvo B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "VOLCAR-B.ST",
+   "name": "Volvo Car B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "WALL-B.ST",
+   "name": "Wallenstam B",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "WIHL.ST",
+   "name": "Wihlborgs Fastigheter",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "YUBICO.ST",
+   "name": "Yubico",
+   "segment": "Large Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "ACAD.ST",
+   "name": "AcadeMedia",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-01"
+  },
+  {
+   "symbol": "ACAST.ST",
+   "name": "Acast",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "ALLIGO-B.ST",
+   "name": "Alligo B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "AMBEA.ST",
+   "name": "Ambea",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "APOTEA.ST",
+   "name": "Apotea",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "ARP.ST",
+   "name": "Arctic Paper",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "ARJO-B.ST",
+   "name": "Arjo",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "ATT.ST",
+   "name": "Attendo",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "AVARDA.ST",
+   "name": "Avarda Bank",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-20"
+  },
+  {
+   "symbol": "BERG-B.ST",
+   "name": "Bergman & Beving B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "BESQAB.ST",
+   "name": "Besqab",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "BETCO.ST",
+   "name": "Better Collective",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-18"
+  },
+  {
+   "symbol": "BHG.ST",
+   "name": "BHG Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-27"
+  },
+  {
+   "symbol": "BICO.ST",
+   "name": "BICO Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-11"
+  },
+  {
+   "symbol": "BIOG-B.ST",
+   "name": "BioGaia B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "BINV.ST",
+   "name": "BioInvent International",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-03-04"
+  },
+  {
+   "symbol": "BONAV-A.ST",
+   "name": "Bonava A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "BONAV-B.ST",
+   "name": "Bonava B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "BOOZT.ST",
+   "name": "Boozt",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "BRIN-B.ST",
+   "name": "Brinova Fastigheter B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "BTS-B.ST",
+   "name": "BTS Group B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "BMAX.ST",
+   "name": "Byggmax Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "AJA-B.ST",
+   "name": "Byggmästare Anders J Ahlström Holding B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "CAT-A.ST",
+   "name": "Catella A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "CAT-B.ST",
+   "name": "Catella B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "CCC.ST",
+   "name": "Cavotec Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "CEVI.ST",
+   "name": "CellaVision",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "CIBUS.ST",
+   "name": "Cibus Real Estate",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "CLA-B.ST",
+   "name": "Cloetta",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "COOR.ST",
+   "name": "Coor Service Management Holding",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "CRED-A.ST",
+   "name": "Creades A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-22"
+  },
+  {
+   "symbol": "CTT.ST",
+   "name": "CTT Systems",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "CYNCA.ST",
+   "name": "Cynca Nordic",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "DIOS.ST",
+   "name": "Diös Fastigheter",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "DUNI.ST",
+   "name": "Duni",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "DUST.ST",
+   "name": "Dustin Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-13"
+  },
+  {
+   "symbol": "DYVOX.ST",
+   "name": "Dynavox Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "EAST.ST",
+   "name": "Eastnine",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-09"
+  },
+  {
+   "symbol": "EGTX.ST",
+   "name": "Egetis Therapeutics",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "ELAN-B.ST",
+   "name": "Elanders B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-26"
+  },
+  {
+   "symbol": "EMIL-B.ST",
+   "name": "Emilshus B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "ENEA.ST",
+   "name": "Enea",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "ENITY.ST",
+   "name": "Enity",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "EPEN.ST",
+   "name": "Ependion",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-02"
+  },
+  {
+   "symbol": "EWRK.ST",
+   "name": "Ework Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "FAG.ST",
+   "name": "Fagerhult Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "FG.ST",
+   "name": "Fasadgruppen",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "FLAT-B.ST",
+   "name": "Flat Capital",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "FLERIE.ST",
+   "name": "Flerie",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-20"
+  },
+  {
+   "symbol": "FMM-B.ST",
+   "name": "FM Mattsson B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-23"
+  },
+  {
+   "symbol": "GPG.ST",
+   "name": "Genova Property Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "G2M.ST",
+   "name": "Gentoo Media",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-25"
+  },
+  {
+   "symbol": "GREEN.ST",
+   "name": "Green Landscaping Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "HNSA.ST",
+   "name": "Hansa Biopharma",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-11"
+  },
+  {
+   "symbol": "HANZA.ST",
+   "name": "HANZA",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-23"
+  },
+  {
+   "symbol": "HEBA-B.ST",
+   "name": "Heba B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "HTRO.ST",
+   "name": "Hexatronic Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "HOFI.ST",
+   "name": "Hoist Finance",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "HUMBLE.ST",
+   "name": "Humble Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "INSTAL.ST",
+   "name": "Instalco",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "INTEA-B.ST",
+   "name": "Intea Fastigheter B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "INTRUM.ST",
+   "name": "Intrum",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "INWI.ST",
+   "name": "Inwido",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-09"
+  },
+  {
+   "symbol": "ITAB.ST",
+   "name": "ITAB Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "JOMA.ST",
+   "name": "John Mattson",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "KFAST-B.ST",
+   "name": "K-Fast Holding B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "KABE-B.ST",
+   "name": "KABE Group B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-25"
+  },
+  {
+   "symbol": "KARNEL-B.ST",
+   "name": "Karnell",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": null
+  },
+  {
+   "symbol": "KAR.ST",
+   "name": "Karnov Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "KNOW.ST",
+   "name": "Knowit",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "LIME.ST",
+   "name": "Lime Technologies",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "LINC.ST",
+   "name": "Linc",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-21"
+  },
+  {
+   "symbol": "LMGAB.ST",
+   "name": "Linjemontage i Grästorp",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "LOGI-B.ST",
+   "name": "Logistea B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "MCAP.ST",
+   "name": "MedCap",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "MEKO.ST",
+   "name": "MEKO",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "MER.ST",
+   "name": "Meren Energy",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-10"
+  },
+  {
+   "symbol": "MILDEF.ST",
+   "name": "MilDef Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "MMGR-B.ST",
+   "name": "Momentum Group B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "MORROW.ST",
+   "name": "Morrow Bank",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "MTG-A.ST",
+   "name": "MTG A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "MTG-B.ST",
+   "name": "MTG B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "NCAB.ST",
+   "name": "NCAB Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "NMAN.ST",
+   "name": "Nederman Holding",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "NELLY.ST",
+   "name": "Nelly Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "NEOBO.ST",
+   "name": "Neobo Fastigheter",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "NETI-B.ST",
+   "name": "Net Insight B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "NIVI-B.ST",
+   "name": "Nivika",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "NOBI.ST",
+   "name": "Nobia",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "NORION.ST",
+   "name": "Norion Bank",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "NOTE.ST",
+   "name": "Note",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-26"
+  },
+  {
+   "symbol": "ORRON.ST",
+   "name": "Orrön Energy",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-25"
+  },
+  {
+   "symbol": "OVZON.ST",
+   "name": "Ovzon",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-25"
+  },
+  {
+   "symbol": "PLAZ-B.ST",
+   "name": "Platzer Fastigheter Holding B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-29"
+  },
+  {
+   "symbol": "PCELL.ST",
+   "name": "PowerCell Sweden",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "PRISMA.ST",
+   "name": "Prisma Properties",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "PACT.ST",
+   "name": "Proact IT Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "RATO-A.ST",
+   "name": "Ratos A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "RATO-B.ST",
+   "name": "Ratos B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "RAY-B.ST",
+   "name": "RaySearch Laboratories B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "REJL-B.ST",
+   "name": "Rejlers B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "RUSTA.ST",
+   "name": "Rusta",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-12-08"
+  },
+  {
+   "symbol": "RVRC.ST",
+   "name": "RVRC Holding",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-19"
+  },
+  {
+   "symbol": "SALIX.ST",
+   "name": "Salix Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-16"
+  },
+  {
+   "symbol": "SBB-B.ST",
+   "name": "SBB Norden B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-24"
+  },
+  {
+   "symbol": "SCST.ST",
+   "name": "Scandi Standard",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "SDIP-B.ST",
+   "name": "Sdiptech B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "SILEX.ST",
+   "name": "Silex Microsystems",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "SMCRT.ST",
+   "name": "SmartCraft Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "STEF-B.ST",
+   "name": "Stendörren Fastigheter B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-19"
+  },
+  {
+   "symbol": "SFAST.ST",
+   "name": "Stenhus Fastigheter i Norden",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "SF.ST",
+   "name": "Stillfront Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "NTECH.ST",
+   "name": "Stockholm Nordtech Group",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "STORY-B.ST",
+   "name": "Storytel B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-10"
+  },
+  {
+   "symbol": "SVEAF-B.ST",
+   "name": "Sveafastigheter",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-18"
+  },
+  {
+   "symbol": "SVED-B.ST",
+   "name": "Svedbergs Group B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-03"
+  },
+  {
+   "symbol": "SVOL-A.ST",
+   "name": "Svolder A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-12-11"
+  },
+  {
+   "symbol": "SVOL-B.ST",
+   "name": "Svolder B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-12-11"
+  },
+  {
+   "symbol": "SLP-B.ST",
+   "name": "Swedish Logistic Property B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-04"
+  },
+  {
+   "symbol": "SYNSAM.ST",
+   "name": "Synsam",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-12"
+  },
+  {
+   "symbol": "TRAC-B.ST",
+   "name": "Traction B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "TRIAN-B.ST",
+   "name": "Trianon B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2026-11-10"
+  },
+  {
+   "symbol": "TANGEN-B.ST",
+   "name": "Tången Industrikapital",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-05"
+  },
+  {
+   "symbol": "VBG-B.ST",
+   "name": "VBG Group B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-17"
+  },
+  {
+   "symbol": "VEFAB.ST",
+   "name": "VEF",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-20"
+  },
+  {
+   "symbol": "VPLAY-A.ST",
+   "name": "Viaplay Group A",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "VPLAY-B.ST",
+   "name": "Viaplay Group B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-18"
+  },
+  {
+   "symbol": "VICO.ST",
+   "name": "Vicore Pharma Holding",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-25"
+  },
+  {
+   "symbol": "VISC.ST",
+   "name": "Viscaria",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-12"
+  },
+  {
+   "symbol": "VNV.ST",
+   "name": "VNV Global",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "VOLO.ST",
+   "name": "Volati",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "XANO-B.ST",
+   "name": "XANO Industri B",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-02-11"
+  },
+  {
+   "symbol": "XVIVO.ST",
+   "name": "Xvivo Perfusion",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  },
+  {
+   "symbol": "ORES.ST",
+   "name": "Öresund",
+   "segment": "Mid Cap",
+   "currency": "SEK",
+   "next_report": "2027-01-28"
+  }
+ ]
+}

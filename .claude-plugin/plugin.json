@@ -1,0 +1,25 @@
+{
+  "name": "day-trader-skill-se",
+  "description": "9 Claude skills for day trading on Nasdaq Stockholm: scan Large and Mid Cap charts, track news and report dates, time every entry and exit, and replay every outcome before you risk a krona.",
+  "version": "2.0.0-se.1",
+  "author": {
+    "name": "Jake Schincariol",
+    "url": "https://opusjake.ai"
+  },
+  "homepage": "https://github.com/Jakeschincariol/day-trader-skill",
+  "repository": "https://github.com/Jakeschincariol/day-trader-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "day-trading",
+    "stock-market",
+    "backtesting",
+    "opening-range-breakout",
+    "paper-trading",
+    "stockholm",
+    "nasdaq-stockholm",
+    "sweden"
+  ],
+  "skills": "./"
+}

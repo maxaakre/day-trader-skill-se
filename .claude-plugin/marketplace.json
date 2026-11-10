@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "day-trader-skill-se",
+  "description": "The Day Trader skill pack, Stockholm fork",
+  "owner": {
+    "name": "Jake Schincariol",
+    "url": "https://opusjake.ai"
+  },
+  "plugins": [
+    {
+      "name": "day-trader-skill-se",
+      "description": "Nine Claude skills for day trading on Nasdaq Stockholm: a chart scanner (Large and Mid Cap), a news monitor with report dates, an entry timer, an exit planner, a time machine that replays 10,000 sessions, a risk manager, a budget manager in kronor, a manual order ticket for Avanza or Nordnet (never without your yes) and price alerts. The original US profile is one config line away.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/Jakeschincariol/day-trader-skill"
+    }
+  ]
+}
